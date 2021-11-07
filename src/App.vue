@@ -33,7 +33,7 @@
     <footer>
       <div class="text-center p-3">
         Copyright © 2021 Robert Oldroyd.
-        <a class="text-dark" href="https://github.com/old-rob/oldroydgames">This Site on GitHub</a>
+        <a class="text-dark" href="https://github.com/old-rob/vue-games">This Site on GitHub</a>
       </div>
     </footer>
   </div>
